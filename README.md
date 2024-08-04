@@ -1,4 +1,5 @@
 # Guruguru Map
+This is the project built for ECE297: Software Design and Communication at the University of Toronto
 Note: Due to copyright restrictions at the University of Toronto for this project, we are unable to share the source code. This repository serves as a showcase of our work.
    <p align="center">
      <img src="https://github.com/user-attachments/assets/8dfcaa54-556e-4401-8669-38ff5d9d038e" alt="image", width=600/>
