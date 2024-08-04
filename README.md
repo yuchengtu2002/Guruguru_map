@@ -90,6 +90,10 @@ Guruguru Map uses cutting-edge algorithms to enhance navigation and routing:
 <p align="center">
   <img src="https://github.com/user-attachments/assets/86f67747-2808-4426-ba3c-98d49a875e5d" alt="image"/>
 </p>
+
+<p align="center">
+  <img src="https://github.com/user-attachments/assets/21a8ac35-cc3c-4eff-9391-d71dfb757211" alt="image"/>
+</p>
 <br>
 
 - **Traveling Salesman Problem (TSP) Solution**:
