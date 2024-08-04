@@ -1,5 +1,9 @@
 # Guruguru Map
-
+Note: Due to copyright restrictions at the University of Toronto for this project, we are unable to share the source code. This repository serves as a showcase of our work.
+   <p align="center">
+     <img src="https://github.com/user-attachments/assets/8dfcaa54-556e-4401-8669-38ff5d9d038e" alt="image"/>
+   </p>
+   
 ## Discover the City with Ease and Precision
 
 Welcome to the **Guruguru Map** project, a feature-rich geographic information system (GIS) application designed to make urban exploration seamless and intuitive. Developed in C++ with the OpenStreetMap (OSM) library, Guruguru Map offers a user-friendly and adaptive experience, allowing you to navigate and explore cities with ease.
@@ -9,9 +13,9 @@ Welcome to the **Guruguru Map** project, a feature-rich geographic information s
 - [Features](#features)
   - [Intuitive Interface](#1-intuitive-interface)
   - [Adaptive Display](#2-adaptive-display)
-  - [Performance and Responsiveness](#3-performance-and-responsiveness)
-  - [Advanced Algorithms](#4-advanced-algorithms)
-  - [Enhanced Exploration Features](#5-enhanced-exploration-features)
+  - [Enhanced Exploration Features](#3-enhanced-exploration-features)
+  - [Performance and Responsiveness](#4-performance-and-responsiveness)
+  - [Advanced Algorithms](#5-advanced-algorithms)
 - [Usage](#usage)
 - [Technologies](#technologies)
 - [Contributors](#contributors)
@@ -30,6 +34,7 @@ The Guruguru Map interface is designed to provide users with a straightforward a
 
 - **Customizable Layout**: Users can personalize the interface by toggling visibility for various features, focusing on what's important to them.<br><br>
 
+
 ### 2. Adaptive Display
 
 Guruguru Map dynamically adapts to your needs, showing the most relevant information as you explore:
@@ -39,28 +44,9 @@ Guruguru Map dynamically adapts to your needs, showing the most relevant informa
 - **Layered Information**: Access various map layers, such as metro lines, traffic conditions, and water bodies, to get a comprehensive understanding of your surroundings.
 
 - **Real-Time Updates**: Stay informed with live traffic updates and changes in metro schedules.<br><br>
- 
-### 3. Performance and Responsiveness
 
-Our application is engineered for optimal performance, ensuring a smooth and responsive user experience:
 
-- **Fast Rendering**: The map loads and responds to user interactions almost instantly, delivering a smooth experience without delays.
-
-- **Adaptive Feedback**: Visual and textual feedback confirms user actions, keeping users informed and engaged with every interaction.
-
-- **Multithreading**: Leveraging multithreading capabilities to enhance performance and reduce loading times.<br><br>
-
-### 4. Advanced Algorithms
-
-Guruguru Map uses cutting-edge algorithms to enhance navigation and routing:
-
-- **Pathfinding**: Implements Dijkstra's and A* search algorithms to find optimal routes quickly and accurately.
-- **Traveling Salesman Problem (TSP) Solution**:
-    - The Traveling Salesman Problem (TSP) involves finding the shortest possible route that visits a set of locations once and returns to the starting point, optimizing for minimal travel time or distance. To solve this problem, we implemented a genetic algorithm that optimizes delivery routes.
-    - The algorithm initializes a population of potential solutions using greedy heuristics, and then iteratively improves them through selection, crossover, and mutation processes. This approach effectively handles multiple deliveries and minimizes travel time, providing efficient and near-optimal routes within the given constraints.
-    - Our approach consistently ranks among the top solutions in benchmark tests, showcasing the effectiveness and superiority of genetic algorithms in complex routing challenges.<br><br>
-
-### 5. Enhanced Exploration Features
+### 3. Enhanced Exploration Features
 
 Our map provides several features that make city exploration more engaging and informative:
 
@@ -71,6 +57,27 @@ Our map provides several features that make city exploration more engaging and i
 - **Distance Measurement**: Calculate distances between multiple locations with ease, helping users plan their journeys effectively.
 
 - **Ratings and Reviews**: Fetch user-generated reviews from the internet to help you make informed decisions about points of interest.<br><br>
+
+ 
+### 4. Performance and Responsiveness
+
+Our application is engineered for optimal performance, ensuring a smooth and responsive user experience:
+
+- **Fast Rendering**: The map loads and responds to user interactions almost instantly, delivering a smooth experience without delays.
+
+- **Adaptive Feedback**: Visual and textual feedback confirms user actions, keeping users informed and engaged with every interaction.
+
+- **Multithreading**: Leveraging multithreading capabilities to enhance performance and reduce loading times.<br><br>
+
+### 5. Advanced Algorithms
+
+Guruguru Map uses cutting-edge algorithms to enhance navigation and routing:
+
+- **Pathfinding**: Implements Dijkstra's and A* search algorithms to find optimal routes quickly and accurately.
+- **Traveling Salesman Problem (TSP) Solution**:
+    - The Traveling Salesman Problem (TSP) involves finding the shortest possible route that visits a set of locations once and returns to the starting point, optimizing for minimal travel time or distance. To solve this problem, we implemented a genetic algorithm that optimizes delivery routes.
+    - The algorithm initializes a population of potential solutions using greedy heuristics, and then iteratively improves them through selection, crossover, and mutation processes. This approach effectively handles multiple deliveries and minimizes travel time, providing efficient and near-optimal routes within the given constraints.
+    - Our approach consistently ranks among the top solutions in benchmark tests, showcasing the effectiveness and superiority of genetic algorithms in complex routing challenges.<br><br>
 
 ## Usage
 
